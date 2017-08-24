@@ -3,7 +3,7 @@
 geometry_msgs/PoseStamped pose_desired
 ---
 # RESULT
-std_msgs/Bool is_collision_free
+bool is_collision_free
 ---
 # FEEDBACK
 # Planned collision free path
